@@ -9,7 +9,7 @@ var policeCarG,car,bulletG,gun;
 function preload() {
   terzo = loadImage("devel.png");
   city = loadImage("hehe.jpg");
-  BGmusic = loadSound("41 The Night Begins to Shine.mp3");
+  BGmusic = loadSound("2.mp3");
   comingCar = loadImage("car1.png")
   AI = loadImage("car2.png")
   restartImg = loadImage("RESTART.jpg");
